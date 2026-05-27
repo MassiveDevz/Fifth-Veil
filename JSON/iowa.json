@@ -1,0 +1,28 @@
+[
+  {
+    "club_name": "Club G",
+    "state": "Iowa",
+    "city": "Des Moines",
+    "website_url": "https://DesMoinesLifestylesClub.com",
+    "phone_number": null,
+    "address": "Private, Des Moines, 50317",
+    "email_address": "dsmlsc01@gmail.com",
+    "schedule": "Friday, Saturday",
+    "hours": "Friday 8pm - 1am, Saturday 8pm - 5am",
+    "about": "Central Iowa's premier membership-only lifestyle club founded in 2017, featuring over 6,500 sq ft of adult entertainment with private rooms, a dungeon, dance floor, hot tub, and pool. BYOB establishment hosting themed parties every weekend.",
+    "social_media": []
+  },
+  {
+    "club_name": "Spice Tribe Ent.",
+    "state": "Iowa",
+    "city": "Des Moines",
+    "website_url": "https://spicetribe-ent.com/",
+    "phone_number": "5158298898",
+    "address": "Des Moines, 50315",
+    "email_address": "info@spicetribe-ent.com",
+    "schedule": null,
+    "hours": null,
+    "about": "A community-driven lifestyle group built on connection, respect, and unforgettable experiences in Des Moines. They create elevated, themed events including hotel takeovers and mix & mingles for open-minded adults in a safe, drama-free environment.",
+    "social_media": []
+  }
+]

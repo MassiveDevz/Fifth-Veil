@@ -1,0 +1,32 @@
+[
+  {
+    "club_name": "Club Sinz",
+    "state": "Massachusetts",
+    "city": "Salisbury",
+    "website_url": "https://www.ClubSinz.com",
+    "phone_number": null,
+    "address": "11 North End Blvd., Salisbury, 01952",
+    "email_address": "info@clubsinz.com",
+    "schedule": "Every other Saturday",
+    "hours": "9:00 PM - 1:00 AM",
+    "about": "SINZ is New England's premier lifestyle club, offering a members-only ultra lounge experience with a full bar, dance floor, and themed events for couples and single women. Located on the north shore of Massachusetts, the club hosts parties every other Saturday evening.",
+    "social_media": [
+      {
+        "facebook": "http://www.facebook.com/clubsinz"
+      }
+    ]
+  },
+  {
+    "club_name": "Sterling Club",
+    "state": "Massachusetts",
+    "city": "Natick",
+    "website_url": "https://www.newenglandcouples.com",
+    "phone_number": "781-843-5112",
+    "address": "67 Green St., Newton, 02458",
+    "email_address": "sterling.club@newenglandcouples.com",
+    "schedule": "Most Saturdays",
+    "hours": "9:00 PM - 2:00 AM",
+    "about": "Sterling Club is a BYOB on-premise lifestyle venue in Boston's Metro-West area, offering a neighborhood bar atmosphere for couples and single women. The 2,000-square-foot facility features a lounge area and private playrooms with parties scheduled most Saturday evenings.",
+    "social_media": []
+  }
+]

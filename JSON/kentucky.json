@@ -1,0 +1,45 @@
+[
+  {
+    "club_name": "NKY Wellness Clinic LLC",
+    "state": "Kentucky",
+    "city": "Union",
+    "website_url": "https://www.NKYWellClinic.com",
+    "phone_number": "(859) 880-8603",
+    "address": "7659 Mall Road #1007, Florence, 41042",
+    "email_address": "ashleigh@nkywellclinic.com",
+    "schedule": null,
+    "hours": null,
+    "about": "NKY Wellness Clinic is a discreet online sexual health care provider owned by a lifestyle community member, offering STD testing, ED medications, female arousal cream, weight loss, and hormone replacement therapy. Services are currently available via video visits for those physically in Kentucky, with shipping to other states.",
+    "social_media": []
+  },
+  {
+    "club_name": "Tempted",
+    "state": "Kentucky",
+    "city": "Louisville",
+    "website_url": "https://www.ClubTempted.com",
+    "phone_number": "502-475-7951",
+    "address": "7803 3rd Street Road, Louisville, 40214",
+    "email_address": "contact@clubtempted.com",
+    "schedule": "Friday - Saturday",
+    "hours": "Doors close at midnight; no new entry after midnight",
+    "about": "Club Tempted is a members-only private lifestyle club in Louisville with over 9,000 square feet, a large dance floor, 9 play rooms, dressing rooms, lockers, and seating for 325. The BYOB venue welcomes couples, singles, and the BDSM community in a clean, safe environment.",
+    "social_media": []
+  },
+  {
+    "club_name": "WildKatz Events",
+    "state": "Kentucky",
+    "city": "Madisonville",
+    "website_url": "https://www.WildKatsEvents.com",
+    "phone_number": "(270) 875-2992",
+    "address": "Address Given upon R.S.V.P., Madisonville, 42431",
+    "email_address": "wildkatzevents@gmail.com",
+    "schedule": "Event-based",
+    "hours": null,
+    "about": "WildKatz Events is a lifestyle event organizer hosting hotel takeovers and themed gatherings for like-minded adults. Events feature clothing-optional pools, themed nights, BDSM experiences, DJs, and complimentary drinks in a BYOB hotel setting.",
+    "social_media": [
+      {
+        "facebook": "https://www.facebook.com/groups/393654206554411"
+      }
+    ]
+  }
+]

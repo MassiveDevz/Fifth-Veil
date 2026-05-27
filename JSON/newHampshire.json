@@ -1,0 +1,71 @@
+[
+  {
+    "club_name": "Fusion Parties",
+    "state": "New Hampshire",
+    "city": "Manchester",
+    "website_url": "https://www.fusionparties.net/",
+    "phone_number": "",
+    "address": "Address Given upon R.S.V.P., Manchester",
+    "email_address": "Fusionparties1@gmail.com",
+    "schedule": "Event-based; dates announced via website and social media",
+    "hours": "Typically Saturday evenings; specific times provided upon RSVP",
+    "about": "Fusion Parties hosts themed ENM community events at a private Manchester venue featuring live performances, DJs, and a BYOB bar with free mixers. Events are 21+ and include captivating entertainment such as fire performances and glow displays.",
+    "social_media": [
+      {
+        "facebook": "https://www.facebook.com/groups/fusionparties"
+      },
+      {
+        "instagram": "https://www.instagram.com/fusion.parties/"
+      }
+    ]
+  },
+  {
+    "club_name": "Heaven & Hell Social Club",
+    "state": "New Hampshire",
+    "city": "Nashua",
+    "website_url": "https://www.hhsocialclub.com/",
+    "phone_number": "(603) 550-9676",
+    "address": "Address Given upon R.S.V.P., Nashua area",
+    "email_address": "support@hhsocialclub.com",
+    "schedule": "Event-based; lifestyle events, meet & greets, and luxury travel experiences scheduled throughout the year",
+    "hours": "Varies by event; check website for upcoming dates",
+    "about": "Heaven & Hell Social Club is a lifestyle social club offering exclusive events, meet & greets, and luxury adult travel experiences including cruises and international takeovers. The club creates a welcoming space for like-minded adults to forge connections and explore new destinations.",
+    "social_media": [
+      {
+        "facebook": "https://www.facebook.com/HHSocialclubAdmin"
+      },
+      {
+        "instagram": "https://www.instagram.com/heavenandhellsocialclub/"
+      },
+      {
+        "x/twitter": "https://twitter.com/HnHSocialClub"
+      }
+    ]
+  },
+  {
+    "club_name": "Hotwife Jewelry",
+    "state": "New Hampshire",
+    "city": "Nashua",
+    "website_url": "https://www.hotwifejewelry.com",
+    "phone_number": "",
+    "address": "1 Chestnut St, Nashua, 03060",
+    "email_address": "contact@hotwifejewelry.com",
+    "schedule": "Online store; available 24/7",
+    "hours": "24/7 (online)",
+    "about": "Hotwife Jewelry is a lifestyle accessories brand offering exclusive QOS anklets, necklaces, earrings, and custom pieces crafted with high-quality hypoallergenic materials. Founded in 2024, they specialize in discreet, stylish jewelry designed to celebrate the lifestyle.",
+    "social_media": [
+      {
+        "facebook": "https://www.facebook.com/hotwife.jewelry/"
+      },
+      {
+        "instagram": "https://www.instagram.com/hotwife_jewelry/"
+      },
+      {
+        "x/twitter": "https://x.com/HotwifeJewelry"
+      },
+      {
+        "tiktok": "https://www.tiktok.com/@hotwife_jewelry"
+      }
+    ]
+  }
+]

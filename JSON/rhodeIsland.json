@@ -1,0 +1,75 @@
+[
+  {
+    "club_name": "Choice Social Club",
+    "state": "Rhode Island",
+    "city": "Providence",
+    "website_url": "https://www.choicesocialclub.com/",
+    "phone_number": "(401) 274-3700",
+    "address": "57 Porter Street, Providence, RI 02905",
+    "email_address": "sls@choicesocialclub.com",
+    "schedule": "Saturday–Sunday (themed events), select Fridays (Bi night), 3rd Thursday (Ropes Class at 7 PM). Monday–Wednesday closed.",
+    "hours": "Saturday & Sunday: 8:30 PM – 2:00 AM; select Fridays: 9:00 PM – 2:00 AM; 3rd Thursday: 7:00 PM",
+    "about": "New England's flagship on-premise lifestyle club with 8,000 square feet and 14 themed playrooms behind the famous red door on Porter Street in Providence. BYOB with full bar service, a dance floor with video wall and stripper pole, and a backyard patio for summer events.",
+    "social_media": [
+      {
+        "x/twitter": "https://x.com/choice_social"
+      }
+    ]
+  },
+  {
+    "club_name": "Electricity Social Club",
+    "state": "Rhode Island",
+    "city": "Providence",
+    "website_url": "https://www.electricitysocialclub.com/",
+    "phone_number": "",
+    "address": "122 Manton Avenue, Right Tower, 2nd Floor, Providence, RI 02909",
+    "email_address": "electricitysocialclubri@gmail.com",
+    "schedule": "Friday, Saturday, Sunday, plus select special event nights",
+    "hours": "Friday & Saturday: 9:00 PM – 2:00 AM; Sunday: 8:00 PM – 1:00 AM",
+    "about": "Providence's most popular members-only lifestyle club housed in a historic industrial loft building, featuring a dance floor, multiple playrooms, a fully equipped BDSM dungeon, and BYOB bar service. Open Friday through Sunday with themed events and a welcoming atmosphere for couples and singles.",
+    "social_media": [
+      {
+        "instagram": "https://www.instagram.com/electricitysocialclub/"
+      },
+      {
+        "x/twitter": "https://twitter.com/ESCPVD"
+      },
+      {
+        "facebook": "https://www.facebook.com/groups/electricitysocialclub/"
+      }
+    ]
+  },
+  {
+    "club_name": "Escapades New England",
+    "state": "Rhode Island",
+    "city": "Providence",
+    "website_url": "https://www.escapadesnewengland.com/",
+    "phone_number": "",
+    "address": "25 Bridge Street, Providence, RI 02903",
+    "email_address": "groupescapades@gmail.com",
+    "schedule": "Event-based (typically monthly parties at nightclub venues); must be accepted on the guestlist to attend",
+    "hours": "Varies by event (typically evening events)",
+    "about": "An upscale, event-based lifestyle group hosting parties in Providence and occasionally Massachusetts, known for their annual Midsummer Nights' Wet Dream Foam Party and Erotic Masquerade Ball. Entry is $60–$80 per couple via guestlist only with no single men permitted.",
+    "social_media": []
+  },
+  {
+    "club_name": "Rhody Boats",
+    "state": "Rhode Island",
+    "city": "Providence",
+    "website_url": "https://www.rhodyboats.com/",
+    "phone_number": "508-614-0209",
+    "address": "Providence & Bristol, RI (off-premise: cruises, party bus, yacht & karaoke)",
+    "email_address": "rhodyboats@gmail.com",
+    "schedule": "Event-based (periodic themed events throughout the year at various venues including Platforms Dance Club and Electricity Social Club)",
+    "hours": "Typically 8:00 PM or 8:30 PM – 2:00 AM (varies by event)",
+    "about": "An off-premise lifestyle social group organizing themed events including booze cruises, party bus pub crawls, yacht parties, and naughty rave dance parties across Providence. Events feature DJs, play areas, swag giveaways, and a fun no-pressure atmosphere for both seasoned swingers and newcomers.",
+    "social_media": [
+      {
+        "instagram": "https://www.instagram.com/rhodyboats/"
+      },
+      {
+        "facebook": "https://www.facebook.com/profile.php?id=61583434253183"
+      }
+    ]
+  }
+]

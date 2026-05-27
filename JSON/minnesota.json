@@ -1,0 +1,44 @@
+[
+  {
+    "club_name": "Fusex Social club",
+    "state": "Minnesota",
+    "city": "Wayzata",
+    "website_url": "https://www.FusexSocialClub.com/application.html",
+    "phone_number": "888-460-4555 Ext 1",
+    "address": "Wayzata, 55391",
+    "email_address": "admin@fusexsocialclub.com",
+    "schedule": "Event-based; monthly invite-only parties held across 23 states",
+    "hours": "Events typically run from 9:00 PM to 4:00 AM",
+    "about": "FuseX Social Club is an exclusive, invite-only lifestyle club offering curated events for swingers, kinksters, and open-minded professionals across 23 states. Members receive legal protection, personalized matchmaking, and access to upscale private parties at mansions and hotels.",
+    "social_media": [
+      { "facebook": "https://www.facebook.com/profile.php?id=100050654388339" },
+      { "youtube": "https://www.youtube.com/channel/UCzWuWGbd3VADSonUJliWapg/videos" }
+    ]
+  },
+  {
+    "club_name": "Midwest Euphoria",
+    "state": "Minnesota",
+    "city": "Shakopee",
+    "website_url": "https://www.MWEuphoria.com",
+    "phone_number": "(651) 285-9824",
+    "address": "17282 Liberty Beach CT, Lakeville, 55044",
+    "email_address": "todd@mweuphoria.com",
+    "schedule": "Friday and Saturday; monthly 2-day hotel takeovers from September through May",
+    "hours": "7:00 PM to 2:00 AM",
+    "about": "Midwest Euphoria, formerly Big O Events, is a Twin Cities lifestyle party group hosting monthly 2-day hotel takeovers and meet-and-greets. Open to couples, single females, and single males seeking a safe, event-based swinging experience.",
+    "social_media": []
+  },
+  {
+    "club_name": "Two Creeks Campground",
+    "state": "Minnesota",
+    "city": "Sandstone",
+    "website_url": "https://www.2Creeks.com",
+    "phone_number": "320-245-6803",
+    "address": "62399 Duxbury Road, Sandstone, MN, 55072",
+    "email_address": "info@2creeks.com",
+    "schedule": "Open daily May 1 through mid-October; themed weekend events Friday through Sunday, weekday retreats Monday through Thursday",
+    "hours": "Check-in from 12:00 PM; campground accessible all day during season",
+    "about": "Two Creeks is a private, 100-acre clothing-optional campground for adults 21+ nestled between two state forests near Sandstone, MN. Open May through mid-October, it offers camping, themed weekend parties, and a relaxed naturist atmosphere with full hookups and modern facilities.",
+    "social_media": [{ "facebook": "https://www.facebook.com/2creeks/" }]
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "club_name": "Black Amor",
+    "state": "Virginia",
+    "city": "Dumfries",
+    "website_url": "https://www.blackamornova.com/",
+    "phone_number": "321-431-8005",
+    "address": "Dumfries, VA",
+    "email_address": "",
+    "schedule": "Event-based; check website or SLS for upcoming dates",
+    "hours": "Typically 9:00 PM - late (varies by event)",
+    "about": "An upscale on-premise BYOB lifestyle venue in Dumfries featuring 8 distinct play areas, professional security, and dedicated host couples. Events typically attract 30-40 couples in an electric, curated atmosphere.",
+    "social_media": []
+  },
+  {
+    "club_name": "Hampton Roads Hookup",
+    "state": "Virginia",
+    "city": "Yorktown",
+    "website_url": "https://www.hamptonroadshookup.com/",
+    "phone_number": "757-358-6820",
+    "address": "Yorktown, VA",
+    "email_address": "",
+    "schedule": "Event-based; hotel parties throughout the year (e.g., Halloween Ball 10/31, NYE Ball 12/31)",
+    "hours": "Registration 7:45 PM - 10:00 PM; events run until 2:00 AM",
+    "about": "A lifestyle event organizer hosting hotel parties and themed events for like-minded couples across the Hampton Roads area. Features DJ entertainment, themed nights, and secured private floors for after-hours socializing.",
+    "social_media": []
+  },
+  {
+    "club_name": "LeZandra Photography",
+    "state": "Virginia",
+    "city": "Norfolk",
+    "website_url": "https://www.lezandraphotography.com/sdc",
+    "phone_number": "",
+    "address": "2800 Granby Street, Norfolk, VA 23504",
+    "email_address": "lezandra@lezandraphotography.com",
+    "schedule": "Monday - Friday (by appointment)",
+    "hours": "By appointment",
+    "about": "An all-female boudoir and erotica photography studio in Downtown Norfolk dedicated to empowering clients to embrace their sensuality. SDC members receive $100 off their boudoir experience.",
+    "social_media": [
+      { "facebook": "https://www.facebook.com/lezandraphotography" },
+      { "instagram": "https://www.instagram.com/lezandraphoto" }
+    ]
+  },
+  {
+    "club_name": "Luv Boudoir",
+    "state": "Virginia",
+    "city": "Chesapeake",
+    "website_url": "https://www.luvboudoir.com/",
+    "phone_number": "757-238-0511",
+    "address": "2504 Calabria Drive, Chesapeake, VA 23323",
+    "email_address": "tswartz@luvboudoir.com",
+    "schedule": "By appointment",
+    "hours": "By appointment",
+    "about": "A boudoir photography service in Chesapeake listed on lifestyle directories, specializing in sensual photography for couples and individuals. Not a traditional club; operates as a photography service catering to the lifestyle community.",
+    "social_media": []
+  },
+  {
+    "club_name": "PrimeTime Seductions",
+    "state": "Virginia",
+    "city": "Sterling",
+    "website_url": "https://www.primetimeseductions.com/",
+    "phone_number": "571-310-3760",
+    "address": "Sterling, VA",
+    "email_address": "",
+    "schedule": "Event-based; check website for upcoming dates",
+    "hours": "Varies by event",
+    "about": "A lifestyle party organizer in Sterling offering curated events for open-minded adults to mix, mingle, and connect. Promotes itself as 'The Peak of Pleasure' for those in the prime of their life.",
+    "social_media": []
+  },
+  {
+    "club_name": "Private Party",
+    "state": "Virginia",
+    "city": "Four Mile Run",
+    "website_url": "https://www.sexyescapes.com/",
+    "phone_number": "",
+    "address": "Four Mile Run, Arlington, VA",
+    "email_address": "",
+    "schedule": "Event-based; travel events and themed parties posted on website",
+    "hours": "Varies by event",
+    "about": "A lifestyle travel and event organizer hosting swing social events, resort takeovers, and cruise excursions for couples in the DC/Arlington area. Operates on the Modern Lifestyle platform with events across domestic and international destinations.",
+    "social_media": []
+  },
+  {
+    "club_name": "The Upside Down Pineapple Club",
+    "state": "Virginia",
+    "city": "Manassas",
+    "website_url": "https://upsidedownpineapple.club/",
+    "phone_number": "",
+    "address": "Manassas, VA",
+    "email_address": "",
+    "schedule": "Third Friday of each month (Meet & Greet); occasional club takeovers and special events",
+    "hours": "7:00 PM - 10:30 PM",
+    "about": "A lifestyle social group hosting monthly vanilla Meet & Greets in Manassas for couples and single women to connect in a safe, low-pressure environment. Built a vibrant community of over 1,000 swingers in the DMV area.",
+    "social_media": []
+  },
+  {
+    "club_name": "VB Eros",
+    "state": "Virginia",
+    "city": "Virginia Beach",
+    "website_url": "https://www.vberos.com/",
+    "phone_number": "",
+    "address": "Virginia Beach, VA 23452",
+    "email_address": "info@vberos.com",
+    "schedule": "1-2 Saturdays per month (by reservation only)",
+    "hours": "Naturists: 1:00 PM - 7:00 PM; Lifestyle: 7:00 PM - 12:00 AM (arrive by 7:30 PM, door locks at 8:30 PM)",
+    "about": "A private residence hosting exclusive invitation-only events for body-positive nudists by day and lifestyle enthusiasts by night. Inspired by European co-ed mineral baths, featuring a pool, jacuzzi, and multiple play areas.",
+    "social_media": []
+  },
+  {
+    "club_name": "Virginia Friends",
+    "state": "Virginia",
+    "city": "Richmond",
+    "website_url": "https://www.vafriendsonline.com/",
+    "phone_number": "757-389-8269",
+    "address": "Richmond, VA 23250",
+    "email_address": "randy@vafriendsonline.com",
+    "schedule": "Once a month (themed dances at a Richmond-area hotel)",
+    "hours": "Early registration 3:00 PM - 5:00 PM; main event evening hours",
+    "about": "An upbeat lifestyle club hosting themed dances once a month at a Richmond-area hotel for couples and single ladies in a no-pressure atmosphere. Features a newcomers' seminar and after-hours socializing on a secured hotel floor.",
+    "social_media": [{ "facebook": "https://www.facebook.com/groups/vafriendsonline" }]
+  }
+]

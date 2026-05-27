@@ -1,0 +1,39 @@
+[
+  {
+    "club_name": "Crucible Lifestyle",
+    "state": "District of Columbia",
+    "city": "Washington",
+    "website_url": "https://the-crucible.com",
+    "phone_number": null,
+    "address": "412 V Street NE, Washington, DC 20002",
+    "email_address": "info@the-crucible.com",
+    "about": "The Crucible is a volunteer-run, private, members-only club for the BDSM, Swingers, and other alternative sexuality communities located in Washington, DC. The Crucible hosts a variety of activities to serve these communities, everything from BDSM education and outreach events, to play parties, social events, yoga classes, monthly board game days, and arts events related to alternative sexuality. The club reopened in its current location in the Eckington neighborhood of NE DC in April 2017. Dungeon 101 is their monthly outreach night on the first Friday designed to help newcomers feel at ease exploring public play.",
+    "social_media": [
+      { "facebook": "https://www.facebook.com/the.Crucible.DC/" },
+      { "instagram": "https://www.instagram.com/thecrucibledc/" },
+      { "x/twitter": "https://twitter.com/thecrucibledc" }
+    ]
+  },
+  {
+    "club_name": "Friction4Her",
+    "state": "District of Columbia",
+    "city": "Washington",
+    "website_url": "https://www.friction4her.com",
+    "phone_number": null,
+    "address": "Address given upon R.S.V.P., Washington area",
+    "email_address": "info@friction4her.com",
+    "about": "Friction4Her hosts quality parties and events for sexually adventurous, experimental couples who love the 'Hotwife' lifestyle or women who enjoy single men, or just extra kinky people looking for hot sexy times including group play. We collect and gather all fabulous, HWP, clean, attractive males from all lifestyle avenues and bring them together to superior events. Events are catered to Hotwife & HWP adventurous couples, playful females & exceptional screened sexy males, bi males/bi couples, fetish and group play. We take the awkwardness out of meeting and completely vet and screen for your ultimate fantasy experience. Hotel takeovers across the USA.",
+    "social_media": []
+  },
+  {
+    "club_name": "Sinn-Ergy",
+    "state": "District of Columbia",
+    "city": "Washington",
+    "website_url": "https://www.Sinn-ergy.com",
+    "phone_number": null,
+    "address": "Address given upon R.S.V.P., DC/Virginia/Maryland area",
+    "email_address": null,
+    "about": "Sinn-Ergy events, founded in 2008, are members-only events for select, classy, sexy, fun couples who take care of themselves and enjoy a night out where they can feel free, playful, flirtatious and/or experimental in a safe, non-judgmental, no-pressure environment. The larger percentage of guests are in their mid 20's and 30's. We organize a variety of events such as Sip & Sin Meet & Greets, playful higher-end sensual erotic 'fantasy' themed events, and vacations. Events hosted in Virginia, the District of Columbia, and Maryland with guests traveling from across the country and Europe. Events range from 50 to 500+ sexy guests. Couples and select single females only.",
+    "social_media": [{ "instagram": "https://www.instagram.com/sinnergydc" }]
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "club_name": "Camp NCN",
+    "state": "Wisconsin",
+    "city": "Black River Falls",
+    "website_url": "https://campncn.com/",
+    "phone_number": "715-299-7138",
+    "address": "N8390 US Highway 12, Black River Falls, WI 54615",
+    "email_address": "reservations@campncn.com",
+    "schedule": "Seasonal, May through September; themed event weekends run Wednesday/Thursday through Sunday",
+    "hours": "Office hours: 10:00 AM - 7:00 PM during season (May-October); after-hours arrivals by arrangement",
+    "about": "Camp NCN is a 21+ adults-only clothing-optional campground on 52+ acres in rural West Central Wisconsin. It features themed weekend events, an indoor pavilion with bar and dance floor, a 3-acre pond with beach, and multiple adult fun rooms.",
+    "social_media": []
+  },
+  {
+    "club_name": "Club @ Freedom Valley Campground",
+    "state": "Wisconsin",
+    "city": "Cushing",
+    "website_url": "https://www.freedomvalleycampground.com/",
+    "phone_number": "715-327-3300",
+    "address": "2168 250th Ave County Rd N, Cushing, WI 54006",
+    "email_address": "",
+    "schedule": "Seasonal, April through October; themed event weekends (Friday through Sunday, 3-day holiday weekends)",
+    "hours": "Check-in: 3:00 PM - 9:00 PM; Cabin check-out: 12:00 PM; Camper check-out: 2:00 PM",
+    "about": "Freedom Valley is a 21+ adults-only, LGBTQIA-friendly, clothing-optional campground in western Wisconsin near the Minnesota border. It offers tent sites, full hook-up RV sites, and cabins with themed weekend events throughout the season.",
+    "social_media": [
+      {
+        "instagram": "https://www.instagram.com/freedomvalleycampground/"
+      },
+      {
+        "youtube": "https://www.youtube.com/@freedomvalleycampground"
+      }
+    ]
+  },
+  {
+    "club_name": "Jen's Social Networking",
+    "state": "Wisconsin",
+    "city": "Milwaukee",
+    "website_url": "https://www.jenssocialnetworking.com/",
+    "phone_number": "262-716-8056",
+    "address": "Milwaukee, WI",
+    "email_address": "",
+    "schedule": "Events approximately once per month at various locations throughout Wisconsin",
+    "hours": "Varies by event",
+    "about": "Jen's Social Networking is a Wisconsin-based lifestyle group that hosts themed hotel takeovers, bar takeovers, and private events about once a month for couples and singles. JSN has also acquired the Sapphires Group and provides a safe, no-pressure environment at all experience levels.",
+    "social_media": []
+  },
+  {
+    "club_name": "Mars Shags Venus",
+    "state": "Wisconsin",
+    "city": "Madison",
+    "website_url": "https://www.marsshagsvenus.com/",
+    "phone_number": "608-216-5184",
+    "address": "Madison, WI",
+    "email_address": "info@marsshagsvenus.com",
+    "schedule": "Events scheduled periodically; hotel takeovers, bowling events, bar takeovers, and annual group trip to Jamaica in March",
+    "hours": "Varies by event",
+    "about": "Mars Shags Venus is a South Central Wisconsin social swing group based in Madison, focused on creating fun, no-pressure environments for all experience levels. They host hotel takeovers, bowling events, bar takeovers, and an annual group trip to Hedonism II in Jamaica.",
+    "social_media": []
+  },
+  {
+    "club_name": "Sapphires Group",
+    "state": "Wisconsin",
+    "city": "Milwaukee",
+    "website_url": "https://www.sapphiresgroup.com/",
+    "phone_number": "920-707-3807",
+    "address": "Milwaukee, WI",
+    "email_address": "",
+    "schedule": "Events scheduled periodically at various venues throughout Wisconsin (now operated under Jen's Social Networking)",
+    "hours": "Varies by event",
+    "about": "Sapphires Group is a couples and select single females' lifestyle group that hosts events throughout Wisconsin. The group has been acquired by Jen's Social Networking and provides a safe, fun, no-pressure atmosphere for all experience levels.",
+    "social_media": []
+  },
+  {
+    "club_name": "Tasty Party",
+    "state": "Wisconsin",
+    "city": "Milwaukee",
+    "website_url": "https://www.tastyparty.com/",
+    "phone_number": "",
+    "address": "11400 W Silver Spring Dr, Milwaukee, WI",
+    "email_address": "",
+    "schedule": "Events scheduled periodically; The Downlow nightclub open for ticketed events",
+    "hours": "Varies by event; typical event hours 7:30 PM - 2:00 AM",
+    "about": "Tasty Partys is a sex-positive events company producing lifestyle events in Milwaukee since 2006. They also operate The Downlow, a private swinger-centric nightclub at 11400 W Silver Spring Dr in Milwaukee.",
+    "social_media": []
+  }
+]

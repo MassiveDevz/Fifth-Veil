@@ -1,0 +1,84 @@
+[
+  {
+    "club_name": "Club NV",
+    "state": "Indiana",
+    "city": "Muncie",
+    "website_url": "https://www.clubnv.net",
+    "phone_number": "(765) 216-7287",
+    "address": "400 S. Lincoln St., Muncie, IN 47302",
+    "email_address": "emailus@clubnv.net",
+    "schedule": "Saturday",
+    "hours": "7 PM - 3 AM (no entry after midnight)",
+    "about": "Members-only lifestyle social club in Muncie with over 10,000 sq ft featuring a DJ, dance floor, buffet dinner, BYOB bar, and private play areas. Open Saturday nights with rotating themed events and a fenced patio with firepit and outdoor pool table.",
+    "social_media": []
+  },
+  {
+    "club_name": "ClubHouse2050",
+    "state": "Indiana",
+    "city": "Indianapolis",
+    "website_url": "https://clubhouse2050.org",
+    "phone_number": "(463) 256-3933",
+    "address": "2050 E. Michigan St., Indianapolis, IN 46201",
+    "email_address": "ClubHouse2050@outlook.com",
+    "schedule": "Friday, Saturday",
+    "hours": "8 PM - 2 AM",
+    "about": "Members-only BYOB sports bar and nightclub in downtown Indianapolis offering private rooms and weekly themed events for a diverse community including swingers, voyeurs, exhibitionists, and BDSM enthusiasts. Features online member areas for video chat, messaging, and social networking.",
+    "social_media": [
+      { "facebook": "https://www.facebook.com/ch2050" },
+      { "instagram": "https://www.instagram.com/theclubhouse2050" },
+      { "x/twitter": "https://www.twitter.com/clubhouse2050" }
+    ]
+  },
+  {
+    "club_name": "Play Champagne",
+    "state": "Indiana",
+    "city": "Fort Wayne",
+    "website_url": "https://playchampagne.com",
+    "phone_number": "(260) 348-2710",
+    "address": "Hotel takeover events; Fort Wayne and regional",
+    "email_address": "owner@playchampagne.com",
+    "schedule": "Event-based (Friday - Sunday hotel takeover weekends)",
+    "hours": "Friday 5 PM - 3 AM, Saturday 8 PM - 3 AM",
+    "about": "One of the fastest growing upscale lifestyle hotel takeover event organizers in the Midwest, voted Lifestyle Club of the Year by ALA. Hosts complete multi-day BYOB hotel takeovers featuring dance floors, themed playrooms, pool parties, BDSM demos, and couples classes across multiple cities.",
+    "social_media": []
+  },
+  {
+    "club_name": "Reel One Indy",
+    "state": "Indiana",
+    "city": "Indianapolis",
+    "website_url": "https://www.reeloneindy.com",
+    "phone_number": "(317) 240-3373",
+    "address": "3428 W. Washington St., Indianapolis, IN 46222",
+    "email_address": null,
+    "schedule": "Friday, Saturday",
+    "hours": "8 PM - 3 AM",
+    "about": "The only female-owned lifestyle club in Indianapolis and Central Indiana, operating legally in the same location for over 28 years. Features 3 floors of fun with on-premise play areas and themed events for couples and singles.",
+    "social_media": [{ "facebook": "https://www.facebook.com/groups/reeloneindianapolis" }]
+  },
+  {
+    "club_name": "SYN Events",
+    "state": "Indiana",
+    "city": "Valparaiso",
+    "website_url": "https://www.SynEvents.info",
+    "phone_number": "(773)251-2369",
+    "address": "1122 Boggy Bogy Ave, Chicago, 60654",
+    "email_address": "sexysynevents@gmail.com",
+    "schedule": "Event-based (primarily Saturdays, occasional Fridays)",
+    "hours": "9 PM - 2 AM",
+    "about": "Hosts Chicago's hottest adult parties for couples and single females, featuring events like the annual Halloween Costume Party and the Eve of the Eve total takeover in the Indiana/Chicago area. Events are held at various venues with ticket-based entry and a vetted guest list.",
+    "social_media": []
+  },
+  {
+    "club_name": "Timber House Parties",
+    "state": "Indiana",
+    "city": "Westfield",
+    "website_url": "https://TimberHouseParties.com",
+    "phone_number": "(317) 804-1595",
+    "address": "Address Given upon R.S.V.P., Sheridan, 46069",
+    "email_address": "timberhouseparties@gmail.com",
+    "schedule": "Saturday (periodic, by invitation only)",
+    "hours": "8 PM - 2 AM",
+    "about": "Private lifestyle house party venue on 30 acres of wooded land in northern Hamilton County featuring a mirrored dance floor, modern lighting, private and group playrooms, and a fire pit with screened patio. Open to couples and single ladies only with capacity for up to 80 couples per event.",
+    "social_media": []
+  }
+]

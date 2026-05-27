@@ -1,0 +1,188 @@
+[
+  {
+    "club_name": "Blacdadi LLC/Rolling Pineapple",
+    "state": "Louisiana",
+    "city": "New Orleans",
+    "website_url": "https://rollingpineapple.com",
+    "phone_number": "(470) 559-0822",
+    "address": "821 Gravier St, New Orleans, LA",
+    "email_address": "christian@rollingpineapple.com",
+    "schedule": "Event-based (check website for upcoming events)",
+    "hours": "Varies by event",
+    "about": "The Rolling Pineapple is a mobile VIP party bus experience in New Orleans offering curated adult lifestyle events on wheels. The private affair features sensual ambiance, privacy windows, dance poles, and a safe space for open-minded guests.",
+    "social_media": [
+      { "instagram": "https://www.instagram.com/therollingpineapplels/" },
+      { "tiktok": "https://tiktok.com/@therollingpineapple" }
+    ]
+  },
+  {
+    "club_name": "Club Colette NOLA",
+    "state": "Louisiana",
+    "city": "New Orleans",
+    "website_url": "https://www.coletteclubs.com/neworleans.php",
+    "phone_number": "(504) 588-1517",
+    "address": "822 Gravier Street, New Orleans, LA 70112, New Orleans, 70112",
+    "email_address": "info@colettenola.com",
+    "schedule": "Wednesday, Thursday, Friday, Saturday",
+    "hours": "Wed-Thu 9:00 PM - 2:00 AM, Fri-Sat 9:00 PM - 4:00 AM",
+    "about": "Colette New Orleans is a private, membership-only on-premise social club for couples and singles active in or curious about the swinging lifestyle. The upscale venue near the French Quarter features a dance floor, DJ, private rooms, voyeur areas, and a theater room.",
+    "social_media": [
+      { "facebook": "https://www.facebook.com/coletteNewOrleans/" },
+      { "instagram": "https://www.instagram.com/coletteneworleans/" },
+      { "x/twitter": "https://x.com/ColetteLabelle" },
+      { "tiktok": "https://www.tiktok.com/@coletteclubs" }
+    ]
+  },
+  {
+    "club_name": "Club Studio 13",
+    "state": "Louisiana",
+    "city": "Breaux Bridge",
+    "website_url": "https://www.Studio13.club",
+    "phone_number": "337-275-6546",
+    "address": "Breaux Bridge, 70517",
+    "email_address": "ecoasishost@gmail.com",
+    "schedule": "Event-based (check website or contact for upcoming dates)",
+    "hours": "Varies by event",
+    "about": "Studio 13 is Louisiana's premier members-only lifestyle club featuring 7,500 square feet of entertainment space in Breaux Bridge. The BYOB venue includes a DJ, dance floor, 8 themed playrooms, an orgy room, a large dungeon, and a full bar area.",
+    "social_media": []
+  },
+  {
+    "club_name": "Club XOXO",
+    "state": "Louisiana",
+    "city": "New Orleans",
+    "website_url": "https://www.club-xoxo.jimdosite.com",
+    "phone_number": "818-201-5984",
+    "address": "1015 N Broad Street, New Orleans",
+    "email_address": "clubxoxotesla@gmail.com",
+    "schedule": "Monthly events (dates announced in advance)",
+    "hours": "Varies by event",
+    "about": "Club XOXO hosts monthly adult themed parties in New Orleans with themes including burlesque, foam, BDSM, foot fetish, and naked sushi. The on-premises venue features a dance floor, fetish room, and outdoor area.",
+    "social_media": []
+  },
+  {
+    "club_name": "CouplesXcape",
+    "state": "Louisiana",
+    "city": "New Orleans",
+    "website_url": "https://www.couplesxcape.com",
+    "phone_number": null,
+    "address": "Private members events, New Orleans area",
+    "email_address": null,
+    "schedule": "Event-based (private members-only events)",
+    "hours": "7:00 PM - 10:00 AM (per event)",
+    "about": "CouplesXcape hosts private, upscale couples-only adult parties for an exclusive members-only group in the New Orleans area. Events feature top-forty dance music, stripper poles, hospitality suites, and a no-pressure environment for lifestyle professionals.",
+    "social_media": []
+  },
+  {
+    "club_name": "Hades en Kore'",
+    "state": "Louisiana",
+    "city": "Slaughter",
+    "website_url": "http://www.HadesEnKore.com",
+    "phone_number": "225-226-2088",
+    "address": "Hwy 412 E, Slaughter, 70777",
+    "email_address": "hadesenkore@gmail.com",
+    "schedule": "Event-based weekends (check for upcoming dates)",
+    "hours": "Overnight events with checkout at noon Sunday",
+    "about": "Hades en Kore' is a private members-only social clubhouse on 12 wooded acres in Slaughter, Louisiana. The three-story Acadian home offers 5,200 sq ft of party space with 6 bedrooms, a BDSM room, pool, jacuzzi, and weekend overnight accommodations.",
+    "social_media": []
+  },
+  {
+    "club_name": "Lagniappe Chateau",
+    "state": "Louisiana",
+    "city": "Shreveport",
+    "website_url": "https://www.thelagniappechateau.com",
+    "phone_number": "(318) 208-2284",
+    "address": "Invite-only private venue, Shreveport area",
+    "email_address": "tonette@thelagniappechateau.com",
+    "schedule": "Friday, Saturday",
+    "hours": "9:00 PM - 3:00 AM",
+    "about": "The Lagniappe Chateau is a private, invite-only lifestyle venue in the Shreveport area for adults 21 and up. It provides a safe, no-pressure environment for alternative lifestyle adults with the location disclosed upon RSVP.",
+    "social_media": []
+  },
+  {
+    "club_name": "Naughty Nawlins",
+    "state": "Louisiana",
+    "city": "New Orleans",
+    "website_url": "https://www.NaughtyNawlins.com",
+    "phone_number": "800-304-4493",
+    "address": "New Orleans",
+    "email_address": "INFO@FRENCHCONNECTIONEVENTS.COM",
+    "schedule": "Annual convention held in July (July 8-12, 2026)",
+    "hours": "Wednesday 10:00 AM - Sunday 6:00 AM (multi-day event)",
+    "about": "Naughty N'awlins is the world's largest lifestyle convention for couples, featuring a multi-day hotel takeover in New Orleans with themed parties, seminars, playrooms, and a sexual freedom parade. The event takes over multiple hotels and 13+ Bourbon Street clubs with daily private parties, live entertainment, and educational workshops.",
+    "social_media": [
+      { "facebook": "https://www.facebook.com/GreatestPartyNawlins/" },
+      { "instagram": "https://www.instagram.com/naughty_in_nawlins/" }
+    ]
+  },
+  {
+    "club_name": "Private Party",
+    "state": "Louisiana",
+    "city": "New Orleans",
+    "website_url": "https://DarkStaminaxxx.wixsite.com/chocolatenola",
+    "phone_number": null,
+    "address": "New Orleans, 70130",
+    "email_address": "chocolatehousenola@yahoo.com",
+    "schedule": "Periodic Saturdays (dates announced in advance)",
+    "hours": "9:00 PM - 2:00 AM",
+    "about": "Chocolate NOLA is an interracial swingers group hosting private parties for couples and single females in luxury apartments in downtown New Orleans. Events cater to those interested in chocolate desires with locations shared upon RSVP.",
+    "social_media": [
+      { "facebook": "https://www.facebook.com/chocolatehouse.nola" },
+      { "instagram": "https://www.instagram.com/chocolatehousenola/" }
+    ]
+  },
+  {
+    "club_name": "Prive Nola",
+    "state": "Louisiana",
+    "city": "New Orleans",
+    "website_url": "https://www.PriveNola.com",
+    "phone_number": "5044447087",
+    "address": "628 N. Rampart Street, New Orleans, LA 70112, New Orleans, 70112",
+    "email_address": "Prive@privenola.com",
+    "schedule": "Monday through Sunday",
+    "hours": "1:00 PM - 1:00 AM (Pool: 1PM-7PM and 7PM-1AM)",
+    "about": "The Prive Community is a private, members-only pleasure space in New Orleans featuring an enclosed courtyard pool and intimate atmosphere for lifestyle couples. Membership is required with day passes available, limited to couples and select pairs with no singles allowed.",
+    "social_media": [
+      { "instagram": "https://www.instagram.com/privepool/" },
+      { "facebook": "https://www.facebook.com/profile.php?id=100008360045523" }
+    ]
+  },
+  {
+    "club_name": "Risqué Lifestyle",
+    "state": "Louisiana",
+    "city": "Lafayette",
+    "website_url": "https://www.RisqueLifestyleParties.com",
+    "phone_number": "1 (833) 474-7783",
+    "address": "Lafayette, Lafayette, 70501",
+    "email_address": "heath@risquelifestyleparties.com",
+    "schedule": "Periodic events (check website for upcoming dates)",
+    "hours": "Varies by event",
+    "about": "Risqué Lifestyle has been producing energetic and unforgettable lifestyle parties in Louisiana and the Florida panhandle for over eight years. They host themed events, hotel takeovers, and travel experiences for a diverse and growing community of open-minded adults.",
+    "social_media": [{ "instagram": "https://www.instagram.com/risque_lifestyle/" }]
+  },
+  {
+    "club_name": "The Playground Nola",
+    "state": "Louisiana",
+    "city": "Lacombe",
+    "website_url": "https://www.ThePlaygroundNewOrleans.com/",
+    "phone_number": null,
+    "address": "Address Given upon R.S.V.P., Lacombe, 70445",
+    "email_address": "NOLA@gmail.com",
+    "schedule": "1-2 themed parties per month (Fridays and Saturdays)",
+    "hours": "8:00 PM - 2:00 AM (doors close at 10:00 PM)",
+    "about": "The Playground is a private home on 2.5 secluded acres near Lake Pontchartrain in Lacombe that hosts lifestyle parties open to all members of the lifestyle community. The property features a large pool, cabanas, multiple indoor and outdoor play areas with 15 beds, and pre-registration is required.",
+    "social_media": [{ "facebook": "https://www.facebook.com/groups/884413167138814/" }]
+  },
+  {
+    "club_name": "Tryst Events",
+    "state": "Louisiana",
+    "city": "New Orleans",
+    "website_url": "Tristevents.com",
+    "phone_number": null,
+    "address": "New Orleans",
+    "email_address": "Tristevents@yahoo.com",
+    "schedule": null,
+    "hours": null,
+    "about": null,
+    "social_media": []
+  }
+]

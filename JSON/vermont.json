@@ -1,0 +1,45 @@
+[
+  {
+    "club_name": "The Whoosh",
+    "state": "Vermont",
+    "city": "South Burlington",
+    "website_url": "https://www.thewhoosh.com/",
+    "phone_number": "802-279-6362",
+    "address": "150 Dorset Street, STE 245, PMB 323, South Burlington, VT 05403",
+    "email_address": "info@thewhoosh.com",
+    "schedule": "Temporarily closed (reopening soon)",
+    "hours": "Not available (currently undergoing transformation)",
+    "about": "A lifestyle club passionate about enabling the discovery and expression of your authentic sexual self. Currently closed and undergoing a transformation to provide a new and improved service.",
+    "social_media": [
+      { "facebook": "https://www.facebook.com/profile.php?id=61566918620225" },
+      { "instagram": "https://www.instagram.com/thewhooshjourney/" },
+      { "x/twitter": "https://x.com/whooshjourney" }
+    ]
+  },
+  {
+    "club_name": "Vermont Swinger",
+    "state": "Vermont",
+    "city": "Norton",
+    "website_url": "https://www.vermontswinger.net/",
+    "phone_number": "",
+    "address": "Statewide, VT (off-premise)",
+    "email_address": "",
+    "schedule": "Contact for event schedule",
+    "hours": "Contact for event times",
+    "about": "A statewide off-premise, BYOB lifestyle group based in Norton, connecting Vermont swingers through private events and meetups. Listed on SwingLifeStyle as a Vermont lifestyle organizer.",
+    "social_media": []
+  },
+  {
+    "club_name": "Vermont Swingers",
+    "state": "Vermont",
+    "city": "White River Junction",
+    "website_url": "https://www.vermontswingers.net/",
+    "phone_number": "",
+    "address": "Statewide, VT (off-premise)",
+    "email_address": "",
+    "schedule": "Contact for event schedule",
+    "hours": "Contact for event times",
+    "about": "A statewide off-premise, BYOB lifestyle community based in White River Junction, organizing private gatherings and events for Vermont swingers. Part of the close-knit New England lifestyle scene.",
+    "social_media": []
+  }
+]

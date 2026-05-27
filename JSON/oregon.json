@@ -1,0 +1,68 @@
+[
+  {
+    "club_name": "Club Privata",
+    "state": "Oregon",
+    "city": "Portland",
+    "website_url": "https://www.clubprivata.com/",
+    "phone_number": "503-914-9599",
+    "address": "824 SW 1st Avenue, Portland, 97204",
+    "email_address": "info@clubprivata.com",
+    "schedule": "Thursday, Friday, Saturday",
+    "hours": "Thursday 8pm–2am; Friday 8pm–3am; Saturday 8pm–3am",
+    "about": "Portland's premier upscale members-only lifestyle nightclub featuring 8,000 sq/ft across 3 levels with two full bars, a dining area, VIP suite, and private play spaces. Open to all guests with a focus on positive vibes, great energy, and a welcoming environment.",
+    "social_media": [
+      { "facebook": "https://www.facebook.com/clubprivata" },
+      { "instagram": "https://www.instagram.com/clubprivata/" },
+      { "x/twitter": "https://twitter.com/clubprivata" },
+      { "tiktok": "https://www.tiktok.com/@clubprivata" }
+    ]
+  },
+  {
+    "club_name": "Please Me!",
+    "state": "Oregon",
+    "city": "Portland",
+    "website_url": "https://pleaseme.online/",
+    "phone_number": "",
+    "address": "Portland area (podcast / media; also on SDC)",
+    "email_address": "",
+    "schedule": "N/A (podcast/media company, not a physical venue)",
+    "hours": "N/A",
+    "about": "A multimedia company founded by sexual health physical therapist Eve Hall, featuring the #1 sexuality podcast with honest, shame-free conversations about intimacy, pleasure, and sexual wellness. Also offers courses, webinars, and the Sexual Longevity Protocol program.",
+    "social_media": [
+      { "facebook": "https://www.facebook.com/people/Please-Me/100094393249379/" },
+      { "instagram": "https://www.instagram.com/please.me.by.eve.creations/" },
+      { "youtube": "https://www.youtube.com/channel/UCEo1qdyY9pXicqeXYeyca9Q" },
+      { "tiktok": "https://www.tiktok.com/@please_me__" }
+    ]
+  },
+  {
+    "club_name": "Sanctuary",
+    "state": "Oregon",
+    "city": "Portland",
+    "website_url": "https://pdxsanctuary.com/",
+    "phone_number": "",
+    "address": "33 NW 9th Ave, Portland, 97209",
+    "email_address": "info@pdxsanctuary.com",
+    "schedule": "Varies by event; open most days of the week (check calendar)",
+    "hours": "Varies by event; typical evening events run 8pm–1:30am or 2am",
+    "about": "An alternative lifestyle event space in Portland's Pearl District providing a gathering space for a large and diverse sex-positive community. Welcomes and honors LGBTQ+, poly, swing, kink, POC, all gender identities and relationship configurations.",
+    "social_media": [{ "facebook": "https://www.facebook.com/pdxsanctuary/" }, { "instagram": "https://www.instagram.com/pdxsanctuary/" }]
+  },
+  {
+    "club_name": "The Velvet Rope",
+    "state": "Oregon",
+    "city": "Portland",
+    "website_url": "https://velvetropepdx.com/",
+    "phone_number": "971-271-7064",
+    "address": "3533 SE Cesar E. Chavez Blvd, Portland, 97202",
+    "email_address": "info@velvetropepdx.com",
+    "schedule": "Friday, Saturday, Sunday",
+    "hours": "Friday 8pm–3am; Saturday 8pm–3am; Sunday 8pm–2am",
+    "about": "Portland's longest-running 21+ lifestyle club offering 10,000 sq/ft of safe, welcoming, sex-positive space for connection and exploration. Hosts themed events including kink nights, swingers socials, rope demos, speed dating, and more.",
+    "social_media": [
+      { "facebook": "https://www.facebook.com/pdxvelvetrope" },
+      { "instagram": "https://www.instagram.com/tvrpdx" },
+      { "x/twitter": "https://x.com/velvetropepdx" }
+    ]
+  }
+]

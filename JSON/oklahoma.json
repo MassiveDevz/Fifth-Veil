@@ -1,0 +1,84 @@
+[
+  {
+    "club_name": "Eden Club OKC / above Days Inn",
+    "state": "Oklahoma",
+    "city": "Oklahoma City",
+    "website_url": "https://www.edenclubs.com/oklahomacity",
+    "phone_number": "405-227-0404",
+    "address": "2801 NW 39th St, Oklahoma City, OK 73112",
+    "email_address": "clubedenevents@gmail.com",
+    "schedule": "Friday, Saturday",
+    "hours": "Friday 9:00 PM - 3:00 AM, Saturday 9:00 PM - 4:00 AM",
+    "about": "Club Eden OKC is a private members-only 21+ club where couples in open relationships can meet and mingle with like-minded people in a fun, safe environment. The 9,000 sq ft venue features a large dance floor, play rooms, BDSM furniture, lockers, and themed parties every weekend.",
+    "social_media": [
+      { "instagram": "https://www.instagram.com/clubedenofficial/" },
+      { "tiktok": "https://www.tiktok.com/@officialclubeden" },
+      { "youtube": "https://www.youtube.com/@JustSexTalkPodcast" }
+    ]
+  },
+  {
+    "club_name": "Guilty Pleasures Club",
+    "state": "Oklahoma",
+    "city": "Oklahoma City",
+    "website_url": "https://www.guiltypleasureslsclub.com/",
+    "phone_number": "",
+    "address": "Address Given upon R.S.V.P., Oklahoma City",
+    "email_address": "GuiltyPleasuresLSClub@gmail.com",
+    "schedule": "Bi-weekly Saturdays (currently closed)",
+    "hours": "9:00 PM - 2:00 AM (when operating)",
+    "about": "Guilty Pleasures was a private membership lifestyle and dance club in Oklahoma City offering bi-weekly Saturday night parties with an upscale dance social, complimentary hors d'oeuvres, and a professional DJ. The club is currently closed; inquiries can be directed to their email or X account.",
+    "social_media": [{ "x/twitter": "https://x.com/GuiltyLS" }]
+  },
+  {
+    "club_name": "SinSocials",
+    "state": "Oklahoma",
+    "city": "Oklahoma City",
+    "website_url": "https://www.sinsocials.com/",
+    "phone_number": "",
+    "address": "Address given upon ticket purchase, Oklahoma City, 73170",
+    "email_address": "randy@sinsocials.com",
+    "schedule": "Event-based (private, vetted events)",
+    "hours": "Varies by event",
+    "about": "SinSocials is a private, vetted sanctuary for the erotically curious, blending the industrial pulse of Berlin with Ibiza hedonism and New York's underground edge. Membership is earned through a rigorous application and vetting process that includes background checks and community references.",
+    "social_media": []
+  },
+  {
+    "club_name": "SYN Tulsa",
+    "state": "Oklahoma",
+    "city": "Tulsa",
+    "website_url": "https://www.synintulsa.com/",
+    "phone_number": "",
+    "address": "Message for vetting, Tulsa, 74106",
+    "email_address": "synintulsa@gmail.com",
+    "schedule": "Saturdays (currently closed to public, hosts private events)",
+    "hours": "Doors open 8:00 PM, party 9:00 PM - 2:00 AM",
+    "about": "Syn is a private lifestyle nightclub in the Tulsa area that provides a female-focused, clean, and well-run atmosphere with a large dance floor and DJ. Currently closed to the public but continues to host private vetted events for members around the Tulsa area.",
+    "social_media": [{ "instagram": "https://www.instagram.com/synintulsa/" }, { "x/twitter": "https://twitter.com/syn_tulsa" }]
+  },
+  {
+    "club_name": "The Club in OKC",
+    "state": "Oklahoma",
+    "city": "Oklahoma City",
+    "website_url": "https://www.theclubinokc.com/",
+    "phone_number": "",
+    "address": "Address Given upon R.S.V.P., Oklahoma City, 73129",
+    "email_address": "theclubinokc@gmail.com",
+    "schedule": "Saturdays (regular Saturday evenings)",
+    "hours": "9:00 PM - 2:00 AM",
+    "about": "The Club in OKC is a private membership lifestyle and dance club that has been a staple of the Oklahoma City swinger community for over 25 years. The 11,000+ sq ft venue features four separate play rooms, a large dance floor with dual dance poles, and a 4,400-watt sound system.",
+    "social_media": []
+  },
+  {
+    "club_name": "The Club Unhinged",
+    "state": "Oklahoma",
+    "city": "Oklahoma City",
+    "website_url": "https://www.theclubunhinged.com/",
+    "phone_number": "",
+    "address": "Address Given upon R.S.V.P., Oklahoma City, 73129",
+    "email_address": "theclubunhinged@gmail.com",
+    "schedule": "Bi-weekly Saturdays",
+    "hours": "9:00 PM - 2:00 AM",
+    "about": "The Club Unhinged is a private membership lifestyle and dance club in Oklahoma City offering bi-weekly Saturday night themed parties with complimentary hors d'oeuvres, a professional DJ, and dance poles. Located at The Club in OKC's venue, they honor The Club in OKC memberships and feature a state-of-the-art lighting and sound system.",
+    "social_media": []
+  }
+]
