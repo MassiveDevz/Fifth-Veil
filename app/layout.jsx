@@ -5,7 +5,7 @@ import { cn } from "@/lib/utils";
 import Footer from "./components/Footer";
 import { GoogleAnalytics } from "@next/third-parties/google";
 
-const inter = Inter({ subsets: ["latin"], variable: "--font-sans" });
+// const inter = Inter({ subsets: ["latin"], variable: "--font-sans" });
 
 const lato = Lato({
   subsets: ["latin"],
@@ -14,10 +14,37 @@ const lato = Lato({
 });
 
 export const metadata = {
-  title: "Fifth Veil",
-  description: "Discover exclusive swinger clubs and lifestyle venues.",
+  // metadataBase: new URL("https://fifthveil.co"),
+
+  title: "Fifth Veil | Swinger Clubs, Lifestyle Venues & Events",
+
+  description: "Discover exclusive swinger clubs, lifestyle venues, and private adult events across the United States.",
+
+  keywords: [
+    "swinger clubs",
+    "lifestyle clubs",
+    "adult events",
+    "lifestyle venues",
+    "swinger resorts",
+    "private clubs",
+    "couples nightlife",
+  ],
+
+  openGraph: {
+    title: "Fifth Veil | Swinger Clubs, Lifestyle Venues & Events",
+    description: "Discover exclusive swinger clubs, lifestyle venues, and private adult events across the United States.",
+    images: {
+      url: "/opengraph.png",
+    },
+  },
+
   icons: {
     icon: "favicon.png",
+  },
+
+  robots: {
+    index: true,
+    follow: true,
   },
 };
 

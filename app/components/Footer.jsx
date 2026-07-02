@@ -7,7 +7,7 @@ import footerLogo from "@/app/assets/images/footer-logo.svg";
 export default function Footer() {
   return (
     <footer className="bg-fifth-black text-white md:pt-20">
-      <div className="max-w-[2000px] mx-auto px-4 space-y-28 md:space-y-40">
+      <div className="max-w-[2000px] mx-auto px-4 space-y-28">
         {/* CONTACT US SECTION */}
         {/* <div className="flex flex-col md:flex-row justify-between items-center gap-x-8">
           <h3 className="text-left font-bold w-auto text-[clamp(32px,5vw,40px)] mb-3 md:mb-0 flex-none">Contact Us</h3>
@@ -82,6 +82,18 @@ export default function Footer() {
           </div>
           <div className="md:w-9/12 flex justify-end w-full mt-8 md:mt-0">
             <Image className="md:w-9/12 h-auto w-full" src={footerLogo} width={1000} height={1000} alt="Fifth Veil Logo" />
+          </div>
+        </div>
+
+        <div className="p-4 border-t border-gray-300/30 flex flex-between flex-col md:flex-row space-y-4 md:space-y-0">
+          <div>
+            <p className="text-sm font-light text-white/85">&copy; {new Date().getFullYear()} Fifth Veil. All rights reserved.</p>
+          </div>
+
+          <div className="flex flex-wrap justify-end items-end gap-x-4 text-sm font-light text-white/85 [&>a]:hover:text-gray-400 transition-colors duration-300">
+            <Link href="/legal/dmca">DMCA Policy</Link>
+            <Link href="/legal/privacy-policy">Privacy Policy</Link>
+            <Link href="/legal/terms-of-service">Terms of Service</Link>
           </div>
         </div>
       </div>
