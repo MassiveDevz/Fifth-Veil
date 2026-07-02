@@ -22,7 +22,7 @@ export default function DirectoryClient({ stateSlug }) {
     // City list top is on screen — stay anchored at the dropdown while results expand below
     if (top >= 0) return;
 
-    cityListRef.current.scrollIntoView({ behavior: "smooth", block: "start" });
+    cityListRef.current.scrollIntoView({ behavior: "instant", block: "start" });
   }, [stateSlug]);
 
   const handleStateChange = useCallback(
