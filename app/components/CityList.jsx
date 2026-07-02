@@ -2,10 +2,11 @@
 
 import Image from "next/image";
 import Link from "next/link";
+import { STATE_LABELS } from "../data/stateData";
 
-export default function CityList({ cities }) {
+export default function CityList({ cities, stateSlug }) {
   if (!cities?.length) {
-    return <p className="text-gray-500 font-body text-center">Select a state above to see cities.</p>;
+    return <p className="text-gray-500 font-body text-center">Select a state above to see experiences.</p>;
   }
 
   const getSocialLabel = (platform) => {
@@ -18,13 +19,18 @@ export default function CityList({ cities }) {
   return (
     <>
       <section className="py-12 text-white">
-        <ul className="max-w-[1800px] space-y-8 mx-auto px-4">
+        <h2 className="text-fifth-gold text-center text-[clamp(24px,3vw,48px)] font-bold mb-8 uppercase tracking-wide">
+          {STATE_LABELS[stateSlug] ?? stateSlug} venues
+        </h2>
+        <ul className="max-w-[1800px] md:space-y-8 mx-auto px-4">
           {cities.map((city) => (
             <li key={city.club_name} className="border-t-2 border-gray-100/35">
               <div>
                 <div className="grid grid-cols-1 md:grid-cols-[1fr_3fr] w-full p-4">
-                  <div className="pr-24">
-                    <h2 className="font-heading font-extrabold text-fifth-gold text-[clamp(16px,3vw,24px)]">{city.club_name}</h2>
+                  <div className="md:pr-24 max-md:mx-auto">
+                    <h2 className="font-heading font-extrabold text-fifth-gold text-[clamp(20px,3vw,28px)] max-md:mb-8 ">
+                      {city.club_name}
+                    </h2>
                   </div>
 
                   <div className="grid grid-cols-1 md:grid-cols-[1.25fr_1fr] w-full gap-16">

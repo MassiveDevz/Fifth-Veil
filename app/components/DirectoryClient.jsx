@@ -1,6 +1,6 @@
 "use client";
 
-import { useMemo, useCallback } from "react";
+import { useMemo, useCallback, useRef, useLayoutEffect } from "react";
 import { useRouter } from "next/navigation";
 import Hero from "./Hero";
 import ThreeCards from "./ThreeCards";
@@ -11,8 +11,19 @@ import { STATE_DATA } from "../data/stateData";
 export default function DirectoryClient({ stateSlug }) {
   const router = useRouter();
   const STATE_SUFFIX = "-swinger-clubs";
+  const cityListRef = useRef(null);
 
   const cities = useMemo(() => (stateSlug ? (STATE_DATA[stateSlug] ?? []) : []), [stateSlug]);
+
+  useLayoutEffect(() => {
+    if (!stateSlug || !cityListRef.current) return;
+
+    const { top } = cityListRef.current.getBoundingClientRect();
+    // City list top is on screen — stay anchored at the dropdown while results expand below
+    if (top >= 0) return;
+
+    cityListRef.current.scrollIntoView({ behavior: "smooth", block: "start" });
+  }, [stateSlug]);
 
   const handleStateChange = useCallback(
     (next) => {
@@ -28,11 +39,11 @@ export default function DirectoryClient({ stateSlug }) {
 
       <ThreeCards />
 
-      <section id="city-list" className="py-16 bg-fifth-black lg:py-32">
+      <section id="venues" className="py-16 bg-fifth-black lg:py-32">
         <StateDropdown value={stateSlug} onChange={handleStateChange} />
 
-        <div className="mt-4">
-          <CityList cities={cities} />
+        <div ref={cityListRef} className="mt-4 scroll-mt-8">
+          <CityList cities={cities} stateSlug={stateSlug} />
         </div>
       </section>
     </div>

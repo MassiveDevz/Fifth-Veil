@@ -5,7 +5,7 @@ import pic3 from "@/app/assets/images/three-card03.png";
 
 export default function ThreeCards() {
   return (
-    <section className="pt-12 lg:pt-32">
+    <section id="about" className="pt-0 lg:pt-32">
       <div className="w-full px-4 pt-8 pb-2 mx-auto space-y-4 overflow-hidden text-white flex-column">
         <div className="max-w-[1400px] w-full mx-auto flex justify-center items-center">
           <div className="w-full h-full space-y-2">
@@ -51,27 +51,30 @@ export default function ThreeCards() {
               alt="2025-26 City Edition Jerseys"
               className="inline-block -rotate-2 w-[145px] sm:w-[225px] md:w-[275px] xl:w-[380px] h-auto border-2 border-black"
             />
-            {/* <img
-              className="inline-block -rotate-2 w-[145px] sm:w-[225px] md:w-[275px] xl:w-[380px] h-auto border-2 border-black"
-              src="https://magicweb.blob.core.windows.net/resources/web/pages/team-store/city/25-26cityedition-collection-v1.jpeg"
-              alt="2025-26 City Edition Jerseys"
-            /> */}
+
             <Image
               src={pic2}
               alt="2025-26 City Edition Jerseys"
               className="inline-block z-10 w-[160px] sm:w-[250px] md:w-[300px] xl:w-[400px] h-auto border-2 border-black"
             />
-            {/* <img
-              className="inline-block z-10 w-[160px] sm:w-[250px] md:w-[300px] xl:w-[400px] h-auto border-2 border-black"
-              src="https://magicweb.blob.core.windows.net/resources/web/pages/team-store/city/25-26cityedition-collection-v2.jpeg"
-              alt="2025-26 City Edition Jerseys"
-            /> */}
+
             <Image
               src={pic3}
               alt="2025-26 City Edition Jerseys"
               className="inline-block rotate-2 w-[145px] sm:w-[225px] md:w-[275px] xl:w-[380px] h-auto border-2 border-black"
             />
+
             {/* <img
+              className="inline-block -rotate-2 w-[145px] sm:w-[225px] md:w-[275px] xl:w-[380px] h-auto border-2 border-black"
+              src="https://magicweb.blob.core.windows.net/resources/web/pages/team-store/city/25-26cityedition-collection-v1.jpeg"
+              alt="2025-26 City Edition Jerseys"
+            />
+             <img
+              className="inline-block z-10 w-[160px] sm:w-[250px] md:w-[300px] xl:w-[400px] h-auto border-2 border-black"
+              src="https://magicweb.blob.core.windows.net/resources/web/pages/team-store/city/25-26cityedition-collection-v2.jpeg"
+              alt="2025-26 City Edition Jerseys"
+            /> 
+             <img
               className="inline-block rotate-2 w-[145px] sm:w-[225px] md:w-[275px] xl:w-[380px] h-auto border-2 border-black"
               src="https://magicweb.blob.core.windows.net/resources/web/pages/team-store/city/25-26cityedition-collection-v3.jpeg"
               alt="2025-26 City Edition Jerseys"

@@ -6,9 +6,10 @@ import footerLogo from "@/app/assets/images/footer-logo.svg";
 
 export default function Footer() {
   return (
-    <footer className="bg-fifth-black text-white pt-20">
+    <footer className="bg-fifth-black text-white md:pt-20">
       <div className="max-w-[2000px] mx-auto px-4 space-y-28 md:space-y-40">
-        <div className="flex flex-col md:flex-row justify-between items-center gap-x-8">
+        {/* CONTACT US SECTION */}
+        {/* <div className="flex flex-col md:flex-row justify-between items-center gap-x-8">
           <h3 className="text-left font-bold w-auto text-[clamp(32px,5vw,40px)] mb-3 md:mb-0 flex-none">Contact Us</h3>
           <div className="flex justify-evenly text-white pt-8 container mx-auto">
             <a
@@ -26,57 +27,58 @@ export default function Footer() {
               212 · 555 · 1234
             </a>
           </div>
-        </div>
+        </div> */}
 
-        {/* <div className="flex flex-wrap justify-between">
+        <div className="flex flex-wrap justify-between">
           <div className="md:w-8/12 w-full">
-            <ul className="flex justify-between items-center w-full gap-y-8 flex-wrap">
-              <li className="w-[30%] border-b-2 border-gray-300 pb-2">
-                <a href="#home" className="capitalize hover:text-fifth-gold transition-colors duration-300 block text-center sm:text-left">
+            <ul className="flex flex-col md:flex-row justify-between items-center w-full gap-y-8 flex-wrap">
+              <li className="w-[65%] md:w-[30%] border-b-2 border-fifth-gold pb-2">
+                <a href="/" className="capitalize hover:text-fifth-gold transition-colors duration-300 block text-center sm:text-left">
                   Home
                 </a>
               </li>
-              <li className="w-[30%] border-b-2 border-gray-300 pb-2">
+              <li className="w-[65%] md:w-[30%] border-b-2 border-fifth-gold pb-2">
                 <a href="#about" className="capitalize hover:text-fifth-gold transition-colors duration-300 block text-center sm:text-left">
                   About
                 </a>
               </li>
-              <li className="w-[30%] border-b-2 border-gray-300 pb-2">
+              <li className="w-[65%] md:w-[30%] border-b-2 border-fifth-gold pb-2">
                 <a
-                  href="#services"
+                  href="#venues"
                   className="capitalize hover:text-fifth-gold transition-colors duration-300 block text-center sm:text-left"
                 >
-                  Services
+                  Venues
                 </a>
               </li>
-              <li className="w-[30%] border-b-2 border-gray-300 pb-2">
+              {/* <li className="w-[30%] border-b-2 border-fifth-gold pb-2">
                 <a
                   href="#portfolio"
                   className="capitalize hover:text-fifth-gold transition-colors duration-300 block text-center sm:text-left"
                 >
                   Portfolio
                 </a>
-              </li>
-              <li className="w-[30%] border-b-2 border-gray-300 pb-2">
+              </li> */}
+              {/* <li className="w-[30%] border-b-2 border-fifth-gold pb-2">
                 <a href="#team" className="capitalize hover:text-fifth-gold transition-colors duration-300 block text-center sm:text-left">
                   The Team
                 </a>
-              </li>
-              <li className="w-[30%] border-b-2 border-gray-300 pb-2">
+              </li> */}
+              {/* <li className="w-[30%] border-b-2 border-fifth-gold pb-2">
                 <a
                   href="#contact"
                   className="capitalize hover:text-fifth-gold transition-colors duration-300 block text-center sm:text-left"
                 >
                   Book a Call
                 </a>
-              </li>
+              </li> */}
             </ul>
           </div>
-        </div> */}
+        </div>
 
         <div className="flex flex-wrap justify-end items-end pb-4">
           <div className="md:w-3/12 w-full">
-            <Image src={footerImage} width={1000} height={1000} alt="Footer Image" className="w-full h-auto" />
+            {/* <img src="https://vi-six.vercel.app/assets/images/about-image3.jpeg" alt="" /> */}
+            <Image src={footerImage} width={1000} height={1000} alt="Footer Image" className="w-full h-auto max-md:px-4" />
           </div>
           <div className="md:w-9/12 flex justify-end w-full mt-8 md:mt-0">
             <Image className="md:w-9/12 h-auto w-full" src={footerLogo} width={1000} height={1000} alt="Fifth Veil Logo" />

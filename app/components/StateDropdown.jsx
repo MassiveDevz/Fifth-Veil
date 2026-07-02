@@ -18,8 +18,10 @@ export default function StateDropdown({ value, onChange }) {
   const selectedLabel = value ? (STATE_LABELS[value] ?? value) : null;
 
   return (
-    <div className="mx-auto flex-column space-y-8">
-      <h2>Search for your next deviant experience</h2>
+    <div className="mx-auto flex-column space-y-8 max-md:px-4">
+      <h2 className="text-white/85 text-center text-[clamp(16px,3vw,20px)] font-medium tracking-wide">
+        Search for your next deviant experience
+      </h2>
 
       <CommandDialog
         open={open}
