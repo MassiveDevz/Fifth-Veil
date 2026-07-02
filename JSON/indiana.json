@@ -55,19 +55,7 @@
     "about": "The only female-owned lifestyle club in Indianapolis and Central Indiana, operating legally in the same location for over 28 years. Features 3 floors of fun with on-premise play areas and themed events for couples and singles.",
     "social_media": [{ "facebook": "https://www.facebook.com/groups/reeloneindianapolis" }]
   },
-  {
-    "club_name": "SYN Events",
-    "state": "Indiana",
-    "city": "Valparaiso",
-    "website_url": "https://www.SynEvents.info",
-    "phone_number": "(773)251-2369",
-    "address": "1122 Boggy Bogy Ave, Chicago, 60654",
-    "email_address": "sexysynevents@gmail.com",
-    "schedule": "Event-based (primarily Saturdays, occasional Fridays)",
-    "hours": "9 PM - 2 AM",
-    "about": "Hosts Chicago's hottest adult parties for couples and single females, featuring events like the annual Halloween Costume Party and the Eve of the Eve total takeover in the Indiana/Chicago area. Events are held at various venues with ticket-based entry and a vetted guest list.",
-    "social_media": []
-  },
+
   {
     "club_name": "Timber House Parties",
     "state": "Indiana",

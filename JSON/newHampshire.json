@@ -41,31 +41,5 @@
         "x/twitter": "https://twitter.com/HnHSocialClub"
       }
     ]
-  },
-  {
-    "club_name": "Hotwife Jewelry",
-    "state": "New Hampshire",
-    "city": "Nashua",
-    "website_url": "https://www.hotwifejewelry.com",
-    "phone_number": "",
-    "address": "1 Chestnut St, Nashua, 03060",
-    "email_address": "contact@hotwifejewelry.com",
-    "schedule": "Online store; available 24/7",
-    "hours": "24/7 (online)",
-    "about": "Hotwife Jewelry is a lifestyle accessories brand offering exclusive QOS anklets, necklaces, earrings, and custom pieces crafted with high-quality hypoallergenic materials. Founded in 2024, they specialize in discreet, stylish jewelry designed to celebrate the lifestyle.",
-    "social_media": [
-      {
-        "facebook": "https://www.facebook.com/hotwife.jewelry/"
-      },
-      {
-        "instagram": "https://www.instagram.com/hotwife_jewelry/"
-      },
-      {
-        "x/twitter": "https://x.com/HotwifeJewelry"
-      },
-      {
-        "tiktok": "https://www.tiktok.com/@hotwife_jewelry"
-      }
-    ]
   }
 ]

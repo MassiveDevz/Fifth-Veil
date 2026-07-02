@@ -1,18 +1,5 @@
 [
   {
-    "club_name": "Black Pearl Entertainment",
-    "state": "Missouri",
-    "city": "Kansas City",
-    "website_url": "https://www.BlackPearlEntertainment.net",
-    "phone_number": "8163132272",
-    "address": "Provided on RSVP, Kansas City, MO 64055",
-    "email_address": "Cody.bpentertainment@gmail.com",
-    "schedule": null,
-    "hours": null,
-    "about": "Black Pearl Entertainment is a lifestyle party organizer in Kansas City, Missouri. Events are RSVP-only with the address provided upon reservation.",
-    "social_media": []
-  },
-  {
     "club_name": "Fantasy Lounge",
     "state": "Missouri",
     "city": "Kansas City",
@@ -29,27 +16,15 @@
       { "youtube": "https://www.youtube.com/@thefantasyloungekc" }
     ]
   },
-  {
-    "club_name": "KC Book Club",
-    "state": "Missouri",
-    "city": "Liberty",
-    "website_url": null,
-    "phone_number": null,
-    "address": null,
-    "email_address": null,
-    "schedule": "Saturdays; also available weeknights with 10+ couples",
-    "hours": "8:00 PM - 3:00 AM",
-    "about": "KC Book Club is a premier Midwest lifestyle venue on five acres of private land in the Liberty, Missouri area featuring playrooms, a dance floor, and a swimming pool. Open to couples and single females with themed events and overnight accommodations.",
-    "social_media": [{ "x/twitter": "https://x.com/kc_book" }]
-  },
+
   {
     "club_name": "LifeinSTyLe Entertainment",
     "state": "Missouri",
     "city": "Washington University in St. Louis",
-    "website_url": null,
+    "website_url": "https://www.lifeinstylestl.com/",
     "phone_number": null,
-    "address": null,
-    "email_address": null,
+    "address": "Address Given upon R.S.V.P., St. Louis, MO",
+    "email_address": "contact@lifeinstylestl.com",
     "schedule": "Varies by event; typically Fridays and Saturdays",
     "hours": "Varies by event",
     "about": "Founded in 2016, LifeinSTyLe Entertainment is St. Louis's fastest-growing lifestyle events community hosting hotel takeovers and themed parties for verified couples 21+. Events span the St. Louis metro and the Midwest with a focus on safety, vetting, and privacy.",
@@ -61,26 +36,14 @@
       { "youtube": "https://www.youtube.com/channel/UCoJvg7s51aFmwCGkh2Ecs6Q" }
     ]
   },
-  {
-    "club_name": "Twst'd Pineapple",
-    "state": "Missouri",
-    "city": "Kansas City",
-    "website_url": null,
-    "phone_number": null,
-    "address": null,
-    "email_address": null,
-    "schedule": null,
-    "hours": null,
-    "about": null,
-    "social_media": []
-  },
+
   {
     "club_name": "Xclusive Xperiences",
     "state": "Missouri",
     "city": "Kansas City",
-    "website_url": null,
+    "website_url": "https://www.xxperiences.com/",
     "phone_number": null,
-    "address": null,
+    "address": "Address Given upon R.S.V.P., Kansas City, MO",
     "email_address": null,
     "schedule": "Varies by event",
     "hours": "Varies by event",

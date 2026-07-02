@@ -33,32 +33,7 @@
       { "tiktok": "https://www.tiktok.com/@coletteclubs" }
     ]
   },
-  {
-    "club_name": "Club Studio 13",
-    "state": "Louisiana",
-    "city": "Breaux Bridge",
-    "website_url": "https://www.Studio13.club",
-    "phone_number": "337-275-6546",
-    "address": "Breaux Bridge, 70517",
-    "email_address": "ecoasishost@gmail.com",
-    "schedule": "Event-based (check website or contact for upcoming dates)",
-    "hours": "Varies by event",
-    "about": "Studio 13 is Louisiana's premier members-only lifestyle club featuring 7,500 square feet of entertainment space in Breaux Bridge. The BYOB venue includes a DJ, dance floor, 8 themed playrooms, an orgy room, a large dungeon, and a full bar area.",
-    "social_media": []
-  },
-  {
-    "club_name": "Club XOXO",
-    "state": "Louisiana",
-    "city": "New Orleans",
-    "website_url": "https://www.club-xoxo.jimdosite.com",
-    "phone_number": "818-201-5984",
-    "address": "1015 N Broad Street, New Orleans",
-    "email_address": "clubxoxotesla@gmail.com",
-    "schedule": "Monthly events (dates announced in advance)",
-    "hours": "Varies by event",
-    "about": "Club XOXO hosts monthly adult themed parties in New Orleans with themes including burlesque, foam, BDSM, foot fetish, and naked sushi. The on-premises venue features a dance floor, fetish room, and outdoor area.",
-    "social_media": []
-  },
+
   {
     "club_name": "CouplesXcape",
     "state": "Louisiana",
@@ -72,32 +47,7 @@
     "about": "CouplesXcape hosts private, upscale couples-only adult parties for an exclusive members-only group in the New Orleans area. Events feature top-forty dance music, stripper poles, hospitality suites, and a no-pressure environment for lifestyle professionals.",
     "social_media": []
   },
-  {
-    "club_name": "Hades en Kore'",
-    "state": "Louisiana",
-    "city": "Slaughter",
-    "website_url": "http://www.HadesEnKore.com",
-    "phone_number": "225-226-2088",
-    "address": "Hwy 412 E, Slaughter, 70777",
-    "email_address": "hadesenkore@gmail.com",
-    "schedule": "Event-based weekends (check for upcoming dates)",
-    "hours": "Overnight events with checkout at noon Sunday",
-    "about": "Hades en Kore' is a private members-only social clubhouse on 12 wooded acres in Slaughter, Louisiana. The three-story Acadian home offers 5,200 sq ft of party space with 6 bedrooms, a BDSM room, pool, jacuzzi, and weekend overnight accommodations.",
-    "social_media": []
-  },
-  {
-    "club_name": "Lagniappe Chateau",
-    "state": "Louisiana",
-    "city": "Shreveport",
-    "website_url": "https://www.thelagniappechateau.com",
-    "phone_number": "(318) 208-2284",
-    "address": "Invite-only private venue, Shreveport area",
-    "email_address": "tonette@thelagniappechateau.com",
-    "schedule": "Friday, Saturday",
-    "hours": "9:00 PM - 3:00 AM",
-    "about": "The Lagniappe Chateau is a private, invite-only lifestyle venue in the Shreveport area for adults 21 and up. It provides a safe, no-pressure environment for alternative lifestyle adults with the location disclosed upon RSVP.",
-    "social_media": []
-  },
+
   {
     "club_name": "Naughty Nawlins",
     "state": "Louisiana",
@@ -171,18 +121,5 @@
     "hours": "8:00 PM - 2:00 AM (doors close at 10:00 PM)",
     "about": "The Playground is a private home on 2.5 secluded acres near Lake Pontchartrain in Lacombe that hosts lifestyle parties open to all members of the lifestyle community. The property features a large pool, cabanas, multiple indoor and outdoor play areas with 15 beds, and pre-registration is required.",
     "social_media": [{ "facebook": "https://www.facebook.com/groups/884413167138814/" }]
-  },
-  {
-    "club_name": "Tryst Events",
-    "state": "Louisiana",
-    "city": "New Orleans",
-    "website_url": "Tristevents.com",
-    "phone_number": null,
-    "address": "New Orleans",
-    "email_address": "Tristevents@yahoo.com",
-    "schedule": null,
-    "hours": null,
-    "about": null,
-    "social_media": []
   }
 ]

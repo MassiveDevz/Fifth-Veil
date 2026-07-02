@@ -68,26 +68,7 @@
     "about": "Northern Michigan's premier lifestyle club hosting all-inclusive hotel takeover weekends at lakefront resorts in Houghton Lake. Events include themed dances, workshops, pool parties, and play spaces with a strong emphasis on consent and community.",
     "social_media": []
   },
-  {
-    "club_name": "Cute But Kinky",
-    "state": "Michigan",
-    "city": "Cottrellville",
-    "website_url": "https://www.cutebutkinky.com",
-    "phone_number": "5862004783",
-    "address": "47339 Van Dyke Ave., Shelby Twp., 48317",
-    "email_address": "amy@cutebutkinky.com",
-    "schedule": "Monday through Sunday",
-    "hours": "Mon-Tue 12:00 PM - 8:00 PM, Wed-Thu 11:00 AM - 8:00 PM, Fri-Sat 11:00 AM - 9:00 PM, Sun 12:00 PM - 6:00 PM",
-    "about": "A female-owned and operated adult boutique offering a curated selection of lingerie, body stockings, sex toys, and novelty items in a non-judgmental atmosphere. Located in Shelby Township, they also host community events and partner with local venues.",
-    "social_media": [
-      {
-        "facebook": "https://www.facebook.com/cutebutkinky/"
-      },
-      {
-        "instagram": "https://www.instagram.com/cutebutkinky_xo/"
-      }
-    ]
-  },
+
   {
     "club_name": "Hidden Agenda",
     "state": "Michigan",
@@ -121,19 +102,7 @@
     "about": "Magnum Moments is an exclusive lifestyle group for sensual and sophisticated couples as well as select sexy singles. They host upscale intimate gatherings for those eager to explore erotic encounters in the Metro Detroit area.",
     "social_media": []
   },
-  {
-    "club_name": "Michigan Fun Times",
-    "state": "Michigan",
-    "city": "Davison",
-    "website_url": "https://www.Michiganfuntimes.com",
-    "phone_number": "(810) 618-0887",
-    "address": "Davison, Davison, 48423",
-    "email_address": "Michiganfuntimesmft@gmail.com",
-    "schedule": null,
-    "hours": null,
-    "about": "Michigan Fun Times is a private lifestyle club welcoming couples and open-minded adults. The venue provides a comfortable, discreet setting for socializing and intimate encounters.",
-    "social_media": []
-  },
+
   {
     "club_name": "Mixology at the Manor",
     "state": "Michigan",
@@ -164,45 +133,7 @@
       }
     ]
   },
-  {
-    "club_name": "PlayBiTheRules",
-    "state": "Michigan",
-    "city": "Romulus",
-    "website_url": "https://www.PlayBiTheRules.com",
-    "phone_number": null,
-    "address": "Address Given upon R.S.V.P., Romulus, 48174",
-    "email_address": "playbitherules@gmail.com",
-    "schedule": "2nd Saturday of every month",
-    "hours": "Afternoon session: 3 PM start; Evening session: 8 PM start",
-    "about": "PlayBiTheRules is a non-judgmental, come-as-you-are community welcoming everyone including straight, bi, and LGBTQIA+ singles and couples for bi-tolerant hotel play parties near Detroit Metro Airport. Attendance is typically 20-30 people with fresh food, massages, and a consent-first atmosphere.",
-    "social_media": []
-  },
-  {
-    "club_name": "Private Party",
-    "state": "Michigan",
-    "city": "Grand Rapids",
-    "website_url": "http://www.SilkCitySocials.com",
-    "phone_number": "(616) 613-6200",
-    "address": "Address Given upon R.S.V.P., Grand Rapids",
-    "email_address": "silkcitysocials@gmail.com",
-    "schedule": "Periodic events throughout the year (no fixed weekly schedule)",
-    "hours": null,
-    "about": "Silk City Socials is a sexually charged group for open-minded couples and single ladies in Grand Rapids who enjoy flirting and fun in a safe, sexy atmosphere. They host parties, meet-and-greets, and weekend getaways to unique locations throughout the year.",
-    "social_media": []
-  },
-  {
-    "club_name": "Spice Lyfe Events",
-    "state": "Michigan",
-    "city": "Toronto",
-    "website_url": "http://www.spice-lyfe.com",
-    "phone_number": "226 798 7338",
-    "address": "6969 Beaver Creek, Toronto, Canada",
-    "email_address": "spicelyfeevents@gmail.com",
-    "schedule": "Periodic invitation-only events (no fixed weekly schedule)",
-    "hours": "Events typically run from 7 PM to 10 AM (overnight)",
-    "about": "Spice Lyfe Events hosts exclusive, invitation-only mansion parties and themed soirees for select couples in the Toronto area. Events feature meet-and-greet buffets, live DJs, professional photographers, heated pools, hot tubs, and private playrooms for up to 40 couples.",
-    "social_media": []
-  },
+
   {
     "club_name": "The Meeting Place",
     "state": "Michigan",
@@ -229,19 +160,7 @@
     "about": "An upscale, invitation-only swingers experience in metro Detroit featuring intimate masquerade-themed events with mixology icebreaker games, multiple play rooms, and a curated guest list. Prescreening is required for all attendees; events accommodate 50\u201380 guests, mostly couples and single females.",
     "social_media": []
   },
-  {
-    "club_name": "The Vixen Social Club",
-    "state": "Michigan",
-    "city": "Saginaw",
-    "website_url": "https://velvetbed-breakfast.myshopify.com",
-    "phone_number": "989-355-1017",
-    "address": "Address Given upon R.S.V.P., Saginaw area",
-    "email_address": null,
-    "schedule": "Event-based; monthly themed events and casual mingles posted on SLS",
-    "hours": "Varies by event; check SLS or Swingr listings for specific times",
-    "about": "An on-premise BYOB lifestyle club in the Saginaw area offering themed events, casual social mingles, and a welcoming atmosphere with clear consent expectations. Features clean, comfortable spaces with lounges and professional staff ensuring privacy and safety.",
-    "social_media": []
-  },
+
   {
     "club_name": "The Wet Spot",
     "state": "Michigan",
