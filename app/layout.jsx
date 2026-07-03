@@ -2,6 +2,7 @@ import "./globals.css";
 import { Inter } from "next/font/google";
 import { Lato } from "next/font/google";
 import { cn } from "@/lib/utils";
+import { SITE_URL } from "@/lib/site";
 import Footer from "./components/Footer";
 import { GoogleAnalytics } from "@next/third-parties/google";
 
@@ -14,7 +15,7 @@ const lato = Lato({
 });
 
 export const metadata = {
-  metadataBase: new URL("https://www.thefifthveil.com"),
+  metadataBase: new URL(SITE_URL),
 
   title: "Fifth Veil | Swinger Clubs, Lifestyle Venues & Events",
 
