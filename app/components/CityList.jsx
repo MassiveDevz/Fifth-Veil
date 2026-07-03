@@ -78,7 +78,8 @@ export default function CityList({ cities, stateSlug }) {
                     </ul>
 
                     {/* <!-- Part --> */}
-                    <div className="min-h-[stretch] flex flex-col justify-between space-y-8">
+                    <div className="flex flex-col justify-between space-y-8">
+                      {/* <div className="min-h-[stretch] flex flex-col justify-between space-y-8"> */}
                       {city.about && <p className="text-base">{city.about}</p>}
 
                       <div className="mt-auto">

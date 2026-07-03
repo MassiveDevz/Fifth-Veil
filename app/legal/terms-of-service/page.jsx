@@ -1,3 +1,5 @@
+import Header from "../components/Header";
+
 export const metadata = {
   title: "Terms of Service | Fifth Veil",
   description: "Read the terms that govern access to and use of Fifth Veil.",
@@ -14,12 +16,13 @@ function Section({ title, children }) {
 
 export default function TermsOfServicePage() {
   return (
-    <main className="bg-fifth-black text-white">
-      <div className="max-w-[2000px] px-4 py-16 lg:py-24">
+    <main className="bg-fifth-black ">
+      <Header />
+      <div className="max-w-[1600px] mx-auto text-white px-4 py-16 lg:py-24">
         <div className="max-w-4xl mx-auto">
           <header className="space-y-4">
             <h1 className="text-4xl font-light uppercase tracking-wide">Terms of Service</h1>
-            <p className="text-sm text-white/70">Effective Date: [Insert Date]</p>
+            <p className="text-sm text-white/70">Effective Date: July 3, 2026</p>
             <p className="text-white/90">By accessing or using this website, you agree to the following Terms of Service.</p>
           </header>
 
@@ -109,7 +112,7 @@ export default function TermsOfServicePage() {
 
             <Section title="12. Contact">
               <p>For questions, contact:</p>
-              <p className="font-semibold">[Your Email]</p>
+              <p className="font-semibold">thefifthveilco@gmail.com</p>
             </Section>
 
             <Section title="13. Disclaimer">

@@ -9,8 +9,8 @@ import heroImg from "@/app/assets/images/mobile-menu-pic08.jpeg";
 const navigation = {
   links: [
     { name: "Home", href: "/" },
-    { name: "About", href: "#about" },
-    { name: "Venues", href: "#venues" },
+    { name: "About", href: "/#about" },
+    { name: "Venues", href: "/#venues" },
   ],
   // social: [
   //   {

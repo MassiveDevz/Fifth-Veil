@@ -14,7 +14,7 @@ const lato = Lato({
 });
 
 export const metadata = {
-  // metadataBase: new URL("https://fifthveil.co"),
+  metadataBase: new URL("https://www.thefifthveil.com"),
 
   title: "Fifth Veil | Swinger Clubs, Lifestyle Venues & Events",
 
