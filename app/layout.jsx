@@ -1,12 +1,9 @@
 import "./globals.css";
-import { Inter } from "next/font/google";
 import { Lato } from "next/font/google";
 import { cn } from "@/lib/utils";
 import { SITE_URL } from "@/lib/site";
 import Footer from "./components/Footer";
-import { GoogleAnalytics } from "@next/third-parties/google";
-
-// const inter = Inter({ subsets: ["latin"], variable: "--font-sans" });
+import CookieConsentBanner from "@/components/cookie-consent-banner";
 
 const lato = Lato({
   subsets: ["latin"],
@@ -55,8 +52,7 @@ export default function RootLayout({ children }) {
       <body>
         {children}
         <Footer />
-
-        <GoogleAnalytics gaId={process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS_ID} />
+        <CookieConsentBanner />
       </body>
     </html>
   );

@@ -93,6 +93,7 @@ export default function Footer() {
           <div className="flex flex-wrap justify-end items-end gap-x-4 text-sm font-light text-white/85 [&>a]:hover:text-gray-400 transition-colors duration-300">
             <Link href="/legal/dmca">DMCA Policy</Link>
             <Link href="/legal/privacy-policy">Privacy Policy</Link>
+            <Link href="/legal/cookie-policy">Cookie Policy</Link>
             <Link href="/legal/terms-of-service">Terms of Service</Link>
           </div>
         </div>

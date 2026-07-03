@@ -8,6 +8,7 @@ export default function sitemap() {
     { path: "", priority: 1, changeFrequency: "weekly" },
     { path: "/legal/dmca", priority: 0.3, changeFrequency: "yearly" },
     { path: "/legal/privacy-policy", priority: 0.3, changeFrequency: "yearly" },
+    { path: "/legal/cookie-policy", priority: 0.3, changeFrequency: "yearly" },
     { path: "/legal/terms-of-service", priority: 0.3, changeFrequency: "yearly" },
   ];
 
