@@ -4,6 +4,7 @@ import { cn } from "@/lib/utils";
 import { SITE_URL } from "@/lib/site";
 import Footer from "./components/Footer";
 import CookieConsentBanner from "@/components/cookie-consent-banner";
+import { seoKeywords } from "@/lib/seoKeywords";
 
 const lato = Lato({
   subsets: ["latin"],
@@ -18,15 +19,7 @@ export const metadata = {
 
   description: "Discover exclusive swinger clubs, lifestyle venues, and private adult events across the United States.",
 
-  keywords: [
-    "swinger clubs",
-    "lifestyle clubs",
-    "adult events",
-    "lifestyle venues",
-    "swinger resorts",
-    "private clubs",
-    "couples nightlife",
-  ],
+  keywords: seoKeywords,
 
   openGraph: {
     title: "Fifth Veil | Swinger Clubs, Lifestyle Venues & Events",
